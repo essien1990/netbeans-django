@@ -1,0 +1,1 @@
+An extension to use django in netbeans.
